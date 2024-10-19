@@ -3,7 +3,7 @@
     <svg width="54.392578125" height="111.81640625" viewBox="0 0 54.392578125 113.81640625"
     xmlns="http://www.w3.org/2000/svg" data-copyright="https://github.com/oubenruing/svg-text-animate"
     style="vertical-align: text-top; ">
-    <g id="svgGroup" stroke-linecap="round" stroke="#000" fill="none" style="fill:none; 
+      <g id="svgGroup" stroke-linecap="round" stroke="#000" fill="none" style="fill:none; 
             stroke:#D93434;
             stroke-width:2px;">
         <path
@@ -12,11 +12,12 @@
             <animate attributeName="stroke-dashoffset" to="0" dur="1500ms" calcMode="linear" repeatCount="1"
                 fill="freeze" begin="0ms"></animate>
         </path>
-    </g>
-</svg><svg width="76.4140625" height="97.998046875" viewBox="0 0 76.4140625 99.998046875"
+      </g>
+    </svg>
+    <svg width="76.4140625" height="97.998046875" viewBox="0 0 76.4140625 99.998046875"
     xmlns="http://www.w3.org/2000/svg" data-copyright="https://github.com/oubenruing/svg-text-animate"
     style="vertical-align: text-top; ">
-    <g id="svgGroup" stroke-linecap="round" stroke="#000" fill="none" style="fill:none; 
+      <g id="svgGroup" stroke-linecap="round" stroke="#000" fill="none" style="fill:none; 
             stroke:#D93434;
             stroke-width:2px;">
         <path
@@ -25,11 +26,12 @@
             <animate attributeName="stroke-dashoffset" to="0" dur="1500ms" calcMode="linear" repeatCount="1"
                 fill="freeze" begin="200ms"></animate>
         </path>
-    </g>
-</svg><svg width="60.3984375" height="102.294921875" viewBox="0 0 60.3984375 104.294921875"
+      </g>
+    </svg>
+    <svg width="60.3984375" height="102.294921875" viewBox="0 0 60.3984375 104.294921875"
     xmlns="http://www.w3.org/2000/svg" data-copyright="https://github.com/oubenruing/svg-text-animate"
     style="vertical-align: text-top; ">
-    <g id="svgGroup" stroke-linecap="round" stroke="#000" fill="none" style="fill:none; 
+      <g id="svgGroup" stroke-linecap="round" stroke="#000" fill="none" style="fill:none; 
             stroke:#D93434;
             stroke-width:2px;">
         <path
@@ -38,11 +40,12 @@
             <animate attributeName="stroke-dashoffset" to="0" dur="1500ms" calcMode="linear" repeatCount="1"
                 fill="freeze" begin="400ms"></animate>
         </path>
-    </g>
-</svg><svg width="114.01171875" height="105.17578125" viewBox="0 0 114.01171875 107.17578125"
+      </g>
+    </svg>
+    <svg width="114.01171875" height="105.17578125" viewBox="0 0 114.01171875 107.17578125"
     xmlns="http://www.w3.org/2000/svg" data-copyright="https://github.com/oubenruing/svg-text-animate"
     style="vertical-align: text-top; ">
-    <g id="svgGroup" stroke-linecap="round" stroke="#000" fill="none" style="fill:none; 
+      <g id="svgGroup" stroke-linecap="round" stroke="#000" fill="none" style="fill:none; 
             stroke:#D93434;
             stroke-width:2px;">
         <path
@@ -51,8 +54,9 @@
             <animate attributeName="stroke-dashoffset" to="0" dur="1500ms" calcMode="linear" repeatCount="1"
                 fill="freeze" begin="600ms"></animate>
         </path>
-    </g>
-</svg><svg width="58.103515625" height="110.009765625" viewBox="0 0 58.103515625 112.009765625"
+      </g>
+    </svg>
+    <svg width="58.103515625" height="110.009765625" viewBox="0 0 58.103515625 112.009765625"
     xmlns="http://www.w3.org/2000/svg" data-copyright="https://github.com/oubenruing/svg-text-animate"
     style="vertical-align: text-top; ">
     <g id="svgGroup" stroke-linecap="round" stroke="#000" fill="none" style="fill:none; 
@@ -64,11 +68,12 @@
             <animate attributeName="stroke-dashoffset" to="0" dur="1500ms" calcMode="linear" repeatCount="1"
                 fill="freeze" begin="800ms"></animate>
         </path>
-    </g>
-</svg><svg width="51.4140625" height="141.11328125" viewBox="0 0 51.4140625 143.11328125"
+      </g>
+    </svg>
+    <svg width="51.4140625" height="141.11328125" viewBox="0 0 51.4140625 143.11328125"
     xmlns="http://www.w3.org/2000/svg" data-copyright="https://github.com/oubenruing/svg-text-animate"
     style="vertical-align: text-top; ">
-    <g id="svgGroup" stroke-linecap="round" stroke="#000" fill="none" style="fill:none; 
+      <g id="svgGroup" stroke-linecap="round" stroke="#000" fill="none" style="fill:none; 
             stroke:#D93434;
             stroke-width:2px;">
         <path
@@ -77,11 +82,12 @@
             <animate attributeName="stroke-dashoffset" to="0" dur="1500ms" calcMode="linear" repeatCount="1"
                 fill="freeze" begin="1000ms"></animate>
         </path>
-    </g>
-</svg><svg width="37.009765625" height="98.681640625" viewBox="0 0 37.009765625 100.681640625"
+      </g>
+    </svg>
+    <svg width="37.009765625" height="98.681640625" viewBox="0 0 37.009765625 100.681640625"
     xmlns="http://www.w3.org/2000/svg" data-copyright="https://github.com/oubenruing/svg-text-animate"
     style="vertical-align: text-top; ">
-    <g id="svgGroup" stroke-linecap="round" stroke="#000" fill="none" style="fill:none; 
+      <g id="svgGroup" stroke-linecap="round" stroke="#000" fill="none" style="fill:none; 
             stroke:#D93434;
             stroke-width:2px;">
         <path
@@ -90,10 +96,11 @@
             <animate attributeName="stroke-dashoffset" to="0" dur="1500ms" calcMode="linear" repeatCount="1"
                 fill="freeze" begin="1200ms"></animate>
         </path>
-    </g>
-</svg><svg width="43.89453125" height="96.09375" viewBox="0 0 43.89453125 98.09375" xmlns="http://www.w3.org/2000/svg"
+      </g>
+    </svg>
+    <svg width="43.89453125" height="96.09375" viewBox="0 0 43.89453125 98.09375" xmlns="http://www.w3.org/2000/svg"
     data-copyright="https://github.com/oubenruing/svg-text-animate" style="vertical-align: text-top; ">
-    <g id="svgGroup" stroke-linecap="round" stroke="#000" fill="none" style="fill:none; 
+      <g id="svgGroup" stroke-linecap="round" stroke="#000" fill="none" style="fill:none; 
             stroke:#D93434;
             stroke-width:2px;">
         <path
@@ -102,8 +109,8 @@
             <animate attributeName="stroke-dashoffset" to="0" dur="1500ms" calcMode="linear" repeatCount="1"
                 fill="freeze" begin="1400ms"></animate>
         </path>
-    </g>
-</svg>
+      </g>
+    </svg>
   </a>
 </p>
 
