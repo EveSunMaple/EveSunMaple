@@ -1,14 +1,12 @@
 <p align="center"> 
-  <a href="https://www.saroprock.com">
-    <img src="./images/1.svg" alt="EveSunMaple">
-    <img src="./images/2.svg" alt="EveSunMaple">
-    <img src="./images/3.svg" alt="EveSunMaple">
-    <img src="./images/4.svg" alt="EveSunMaple">
-    <img src="./images/5.svg" alt="EveSunMaple">
-    <img src="./images/6.svg" alt="EveSunMaple">
-    <img src="./images/7.svg" alt="EveSunMaple">
-    <img src="./images/8.svg" alt="EveSunMaple">
-  </a>
+  <img src="./images/1.svg" alt="EveSunMaple">
+  <img src="./images/2.svg" alt="EveSunMaple">
+  <img src="./images/3.svg" alt="EveSunMaple">
+  <img src="./images/4.svg" alt="EveSunMaple">
+  <img src="./images/5.svg" alt="EveSunMaple">
+  <img src="./images/6.svg" alt="EveSunMaple">
+  <img src="./images/7.svg" alt="EveSunMaple">
+  <img src="./images/8.svg" alt="EveSunMaple">
 </p>
 
 
@@ -29,7 +27,7 @@
 ### My projects
 
 | 仓库 | 简介 | 状态 |
-| :---: | :---: | :---: |
+| :--- | :--- | :--- |
 | [Frosti](https://github.com/EveSunMaple/Frosti) | 一个使用 Astro 制作的博客主题，注重流畅与美观。项目 Demo ： https://frosti.saroprock.com/ | 🟢 更新中 |
 | Astion | 一个使用 Astro 制作的 `社交网络` ，与 Notion 息息相关 |  🔵 验证中 |
 | astro-comment | 转为 Astro 站点打造的评论系统 |  🟡 画饼中 |
