@@ -30,12 +30,12 @@
 | :--- | :--- | :--- |
 | [Frosti](https://github.com/EveSunMaple/Frosti) | 一个使用 Astro 制作的博客主题，注重流畅与美观。项目 Demo ： https://frosti.saroprock.com/ | 🟢 更新中 |
 | Astion | 一个使用 Astro 制作的 `社交网络` ，与 Notion 息息相关 |  🔵 验证中 |
-| astro-comment | 转为 Astro 站点打造的评论系统 |  🟡 画饼中 |
+| astro-comment | 专门为 Astro 站点打造的评论系统 |  🟡 画饼中 |
 
 ### GitHub Stats
 
-| ![EveSunMaple's GitHub stats](https://github-readme-stats.vercel.app/api?username=EveSunMaple&show_icons=true&theme=material-palenight) | [![GitHub Streak](https://streak-stats.demolab.com/?user=EveSunMaple&theme=material-palenight)](https://git.io/streak-stats) |
-| --- | --- |
+<img align="center" width="430" src="https://github-readme-stats.vercel.app/api?username=EveSunMaple&theme=github_dark&show_icons=true&show=reviews&hide_title=true&hide=contribs&hide_border=true" />
+<img align="center" width="400" src="https://streak-stats.demolab.com?user=EveSunMaple&theme=github-dark-blue&date_format=%5BY.%5Dn.j&hide_border=true" />
 
 ### My Personal OC
 
