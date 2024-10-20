@@ -29,7 +29,7 @@
 
 | 仓库 | 简介 | 状态 |
 | :--- | :--- | :--- |
-| [Frosti](https://github.com/EveSunMaple/Frosti) | 一个使用 Astro 制作的博客主题，注重流畅与美观。项目 Demo ： https://frosti.saroprock.com/ | 🟢 更新中 |
+| [Frosti](https://github.com/EveSunMaple/Frosti) | 一个使用 Astro 制作的博客主题，注重性能与美观。项目 Demo ： https://frosti.saroprock.com/ | 🟢 更新中 |
 | Astion | 一个使用 Astro 制作的 `社交网络` ，与 Notion 息息相关 |  🔵 验证中 |
 | astro-comment | 专门为 Astro 站点打造的评论系统 |  🟡 画饼中 |
 
