@@ -30,8 +30,13 @@
 | 仓库 | 简介 | 状态 |
 | :--- | :--- | :--- |
 | [Frosti](https://github.com/EveSunMaple/Frosti) | 一个使用 Astro 制作的博客主题，注重性能与美观。项目 Demo ： https://frosti.saroprock.com/ | 🟢 更新中 |
-| Astion | 一个使用 Astro 制作的 `社交网络` ，与 Notion 息息相关 |  🔵 验证中 |
-| astro-comment | 专门为 Astro 站点打造的评论系统 |  🟡 画饼中 |
+| Astion | 一个使用 Astro 制作的 `社交网络` ，与 Notion 息息相关 |  🟣 尝试中 |
+| AstroTalk | 专门为 Astro 站点打造的评论系统 |  🔵 验证中 |
+
+#### Recent activities
+
+- 【2024/11/1】正在验证 AstroTalk ：尝试提供传递组件在客户端处理页面，但是遇到了问题。
+- 【2024/11/1】正在重构 Astion ：打算切换 Astion 的渲染模式，这样不仅确保页面是最新的，而且可以添加更多交互内容，但是不保证访问流畅度，使用的适配件不同亦会影响其适用性，做尝试处理。有关按需渲染的更多信息在 [启用按需服务器渲染](https://docs.astro.build/zh-cn/guides/server-side-rendering/#%E5%90%AF%E7%94%A8%E6%8C%89%E9%9C%80%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%B8%B2%E6%9F%93) 。
 
 ### GitHub Stats
 
@@ -40,8 +45,3 @@
   <img align="center" width="400" src="https://streak-stats.demolab.com?user=EveSunMaple&theme=github-dark-blue&date_format=%5BY.%5Dn.j&hide_border=true" />
 </p>
 
-### My Personal OC
-
-![My Personal OC](./images/profile.jpg)
-
-*因为我是双子座，所以有两个人也很合理吧*
