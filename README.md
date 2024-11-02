@@ -1,12 +1,12 @@
 <p align="center"> 
-  <img src="./images/1.svg" alt="EveSunMaple">
-  <img src="./images/2.svg" alt="EveSunMaple">
-  <img src="./images/3.svg" alt="EveSunMaple">
-  <img src="./images/4.svg" alt="EveSunMaple">
-  <img src="./images/5.svg" alt="EveSunMaple">
-  <img src="./images/6.svg" alt="EveSunMaple">
-  <img src="./images/7.svg" alt="EveSunMaple">
-  <img src="./images/8.svg" alt="EveSunMaple">
+  <img src="./images/1.svg" alt="S">
+  <img src="./images/2.svg" alt="u">
+  <img src="./images/3.svg" alt="n">
+  <img src="./images/4.svg" alt="M">
+  <img src="./images/5.svg" alt="a">
+  <img src="./images/6.svg" alt="p">
+  <img src="./images/7.svg" alt="l">
+  <img src="./images/8.svg" alt="e">
 </p>
 
 <br />
