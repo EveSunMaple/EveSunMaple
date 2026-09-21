@@ -73,5 +73,3 @@ A gentle echo of each passing day.
 </div>
 
 ![](https://hit.yhype.me/github/profile?account_id=121652165)
-
-# EveSunMaple
