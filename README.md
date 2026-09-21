@@ -50,26 +50,4 @@ A gentle echo of each passing day.
 
 <h3 align="center">...</h3>
 
-<br/> 
-
----
- 
-<div style="display:flex; align-items:flex-start; justify-content:space-between; gap:24px; flex-wrap:wrap;">
-  <div style="flex:1; min-width:180px;">
-    <h3 style="margin:0 0 12px;">Thanks</h3>
-    <div>
-      <strong>Sponsors:</strong>
-      <ul style="margin:8px 0 0 18px; padding:0;">
-        <li><a href="https://github.com/Loping151">https://github.com/Loping151</a></li>
-      </ul>
-    </div>
-  </div>
-  <a href="https://ghfind.com/u/evesunmaple?ref=badge" style="display:block; margin-left:auto;">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/evesunmaple?variant=radar&theme=dark" />
-      <img src="https://ghfind.com/api/card/mini/evesunmaple?variant=radar&theme=light" alt="GitHub Roast 评分卡" width="440" style="max-width:100%; height:auto; display:block;" />
-    </picture>
-  </a>
-</div>
-
 ![](https://hit.yhype.me/github/profile?account_id=121652165)
